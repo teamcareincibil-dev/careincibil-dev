@@ -11,6 +11,86 @@ export interface ServiceItem {
 
 export const servicesData: ServiceItem[] = [
   {
+  id: 'cm-yuva-project-assistance',
+  iconName: 'Rocket',
+  title: {
+    en: 'CM YUVA Project & Loan Assistance',
+    hi: 'सीएम युवा प्रोजेक्ट एवं लोन सहायता'
+  },
+  shortDesc: {
+    en: 'Complete guidance for CM YUVA loan application, eligibility check, project report, document preparation, and bank approval support.',
+    hi: 'सीएम युवा लोन आवेदन, पात्रता जांच, प्रोजेक्ट रिपोर्ट, दस्तावेज़ तैयारी और बैंक अप्रूवल सहायता के लिए संपूर्ण मार्गदर्शन।'
+  },
+  fullDesc: {
+    en: 'CM YUVA (Mukhyamantri Yuva Udyami Vikas Abhiyan) is a Uttar Pradesh government scheme that supports youth in starting new manufacturing or service enterprises. Eligible applicants can receive an interest-free, collateral-free loan of up to ₹5 lakh, along with margin money support of up to 10% of the project cost. We help you prepare a bank-ready application with the right business plan, project report, and documentation.',
+    hi: 'सीएम युवा (मुख्यमंत्री युवा उद्यमी विकास अभियान) उत्तर प्रदेश सरकार की योजना है, जो युवाओं को नए विनिर्माण या सेवा उद्यम शुरू करने में सहायता देती है। पात्र आवेदकों को ₹5 लाख तक का ब्याज मुक्त एवं बिना गारंटी वाला ऋण तथा परियोजना लागत के 10% तक मार्जिन मनी सहायता मिल सकती है। हम सही बिज़नेस प्लान, प्रोजेक्ट रिपोर्ट और दस्तावेज़ों के साथ बैंक-रेडी आवेदन तैयार करने में मदद करते हैं।'
+  },
+  bulletPoints: {
+    en: [
+      'Eligibility check: age, education, skill certificate, residence, and prior scheme benefits',
+      'Business idea selection for manufacturing, service, franchise, or local enterprise',
+      'Bankable project report with cost, machinery, working capital, and revenue estimates',
+      'Complete document checklist and application form preparation',
+      'Guidance for Udyam registration, GST (if required), and bank submission'
+    ],
+    hi: [
+      'पात्रता जांच: आयु, शिक्षा, कौशल प्रमाणपत्र, निवास और पूर्व योजना लाभ',
+      'विनिर्माण, सेवा, फ्रैंचाइज़ी या स्थानीय उद्यम के लिए बिज़नेस आइडिया चयन',
+      'लागत, मशीनरी, वर्किंग कैपिटल और अनुमानित आय के साथ बैंकेबल प्रोजेक्ट रिपोर्ट',
+      'संपूर्ण दस्तावेज़ चेकलिस्ट और आवेदन फॉर्म तैयारी',
+      'उद्यम पंजीकरण, जीएसटी (यदि आवश्यक हो) और बैंक सबमिशन के लिए मार्गदर्शन'
+    ]
+  },
+  targetAudience: {
+    en: 'Uttar Pradesh youth aged 21–40 who want to start a new manufacturing or service business and need a CM YUVA loan.',
+    hi: 'उत्तर प्रदेश के 21–40 वर्ष के युवा जो नया विनिर्माण या सेवा व्यवसाय शुरू करना चाहते हैं और सीएम युवा लोन चाहते हैं।'
+  },
+  deliverables: {
+    en: ['CM YUVA Eligibility Assessment', 'Customised Bankable Project Report', 'Document Checklist & Application Support', 'Loan Application Guidance'],
+    hi: ['सीएम युवा पात्रता मूल्यांकन', 'कस्टमाइज़्ड बैंकेबल प्रोजेक्ट रिपोर्ट', 'दस्तावेज़ चेकलिस्ट एवं आवेदन सहायता', 'लोन आवेदन मार्गदर्शन']
+  }
+},
+{
+  id: 'mysy-scholarship-assistance',
+  iconName: 'GraduationCap',
+  title: {
+    en: 'MYSY Scholarship Application Assistance',
+    hi: 'एमवाईएसवाई स्कॉलरशिप आवेदन सहायता'
+  },
+  shortDesc: {
+    en: 'Complete support for MYSY scholarship eligibility, online application, document upload, verification, renewal, and status tracking.',
+    hi: 'एमवाईएसवाई स्कॉलरशिप पात्रता, ऑनलाइन आवेदन, दस्तावेज़ अपलोड, वेरिफिकेशन, रिन्यूअल और स्टेटस ट्रैकिंग के लिए संपूर्ण सहायता।'
+  },
+  fullDesc: {
+    en: 'MYSY (Mukhyamantri Yuva Swavalamban Yojana) is a Gujarat government scholarship for meritorious students from families with annual income up to ₹6 lakh. It provides tuition fee assistance, hostel support, and books/equipment grants for eligible diploma, degree, engineering, pharmacy, medical, and professional courses. We help students apply correctly, avoid rejection due to missing documents, and complete annual renewal on time.',
+    hi: 'एमवाईएसवाई (मुख्यमंत्री युवा स्वावलंबन योजना) गुजरात सरकार की स्कॉलरशिप है, जो ₹6 लाख तक वार्षिक आय वाले परिवारों के मेधावी छात्रों के लिए है। यह पात्र डिप्लोमा, डिग्री, इंजीनियरिंग, फार्मेसी, मेडिकल और प्रोफेशनल कोर्सेज के लिए ट्यूशन फीस सहायता, हॉस्टल सहायता तथा किताब/उपकरण अनुदान प्रदान करती है। हम छात्रों को सही आवेदन, दस्तावेज़ संबंधी रिजेक्शन से बचाव और समय पर वार्षिक रिन्यूअल में मदद करते हैं।'
+  },
+  bulletPoints: {
+    en: [
+      'Eligibility check based on course, marks/percentile, family income, and Gujarat domicile',
+      'Fresh and renewal application form filling on the official MYSY portal',
+      'Document preparation: Aadhaar, income certificate, marksheets, admission proof, fee receipts, and bank details',
+      'Hostel and book/equipment grant claim assistance',
+      'Application status tracking and correction of common rejection issues'
+    ],
+    hi: [
+      'कोर्स, अंक/पर्सेंटाइल, पारिवारिक आय और गुजरात डोमिसाइल के आधार पर पात्रता जांच',
+      'आधिकारिक MYSY पोर्टल पर फ्रेश एवं रिन्यूअल आवेदन फॉर्म भरने में सहायता',
+      'दस्तावेज़ तैयारी: आधार, आय प्रमाणपत्र, मार्कशीट, प्रवेश प्रमाण, फीस रसीद और बैंक विवरण',
+      'हॉस्टल तथा किताब/उपकरण अनुदान क्लेम में सहायता',
+      'आवेदन स्टेटस ट्रैकिंग और सामान्य रिजेक्शन कारणों का समाधान'
+    ]
+  },
+  targetAudience: {
+    en: 'Gujarat students pursuing diploma, undergraduate, engineering, pharmacy, medical, or other eligible professional courses.',
+    hi: 'गुजरात के वे छात्र जो डिप्लोमा, अंडरग्रेजुएट, इंजीनियरिंग, फार्मेसी, मेडिकल या अन्य पात्र प्रोफेशनल कोर्स कर रहे हैं।'
+  },
+  deliverables: {
+    en: ['MYSY Eligibility Report', 'Online Application Assistance', 'Document Verification Checklist', 'Renewal & Status Tracking Support'],
+    hi: ['एमवाईएसवाई पात्रता रिपोर्ट', 'ऑनलाइन आवेदन सहायता', 'दस्तावेज़ सत्यापन चेकलिस्ट', 'रिन्यूअल एवं स्टेटस ट्रैकिंग सहायता']
+  }
+},
+  {
     id: 'cibil-report-analysis',
     iconName: 'FileSearch',
     title: {

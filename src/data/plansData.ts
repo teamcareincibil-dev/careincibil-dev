@@ -14,7 +14,7 @@ export const individualPlans: PricingPlan[] = [
     id: 'basic',
     name: { en: 'Basic', hi: 'बेसिक' },
     price: '₹10,999',
-    duration: { en: 'For 3 months', hi: '3 माह की अवधि' },
+    duration: { en: 'For 2 months', hi: '2 माह की अवधि' },
     bestFor: {
       en: 'For individuals looking to fix credit report issues and improve their credit score.',
       hi: 'उन व्यक्तियों के लिए जो रिपोर्ट में मौजूद त्रुटियों की पहचान और बुनियादी सुधार चाहते हैं।'
@@ -41,8 +41,8 @@ export const individualPlans: PricingPlan[] = [
   {
     id: 'standard',
     name: { en: 'Standard', hi: 'स्टैंडर्ड' },
-    price: '₹14,999',
-    duration: { en: 'For 6 months', hi: '6 माह की अवधि' },
+    price: '₹17,999',
+    duration: { en: 'For 2 months', hi: '2 माह की अवधि' },
     bestFor: {
       en: 'For customers seeking guided credit improvement with dedicated expert support.',
       hi: 'उन ग्राहकों के लिए जो समर्पित विशेषज्ञ के साथ चरणबद्ध सुधार और निगरानी चाहते हैं।'
@@ -71,8 +71,8 @@ export const individualPlans: PricingPlan[] = [
     name: { en: 'Premium', hi: 'प्रीमियम' },
     badge: { en: 'MOST POPULAR', hi: 'सर्वाधिक लोकप्रिय' },
     isPopular: true,
-    price: '₹19,999',
-    duration: { en: 'For 9 months', hi: '9 माह की अवधि' },
+    price: '₹32,999',
+    duration: { en: 'For 2 months', hi: '2 माह की अवधि' },
     bestFor: {
       en: 'For customers seeking complete credit rebuilding and long-term financial growth.',
       hi: 'उन ग्राहकों के लिए जो पूर्ण क्रेडिट पुनर्निर्माण और दीर्घकालिक ऋण मजबूती चाहते हैं।'
@@ -103,8 +103,8 @@ export const individualPlans: PricingPlan[] = [
   {
     id: 'exquisite',
     name: { en: 'Exquisite VIP', hi: 'एक्सक्विजिट वीआईपी' },
-    price: '₹25,000+',
-    duration: { en: 'For 12 months', hi: '12 माह की अवधि' },
+    price: '₹50,000+',
+    duration: { en: 'For 2 months', hi: '2 माह की अवधि' },
     bestFor: {
       en: 'For high-ticket loan seekers requiring premium, personalized credit management.',
       hi: 'बड़े लोन (होम/कमर्शियल) चाहने वालों के लिए प्रीमियम, व्यक्तिगत रणनीतिक प्रबंधन।'
@@ -134,8 +134,8 @@ export const businessPlans: PricingPlan[] = [
   {
     id: 'msme-starter',
     name: { en: 'MSME Credit Starter', hi: 'MSME क्रेडिट स्टार्टर' },
-    price: '₹18,500',
-    duration: { en: 'For 6 months', hi: '6 माह की अवधि' },
+    price: 'Basic',
+    duration: { en: 'For required months', hi: 'माह की अवधि' },
     bestFor: {
       en: 'Proprietorships and micro-enterprises with CIBIL Rank issues holding back loans.',
       hi: 'प्रोपराइटरशिप और छोटे उद्योग जिनकी बैंक लिमिट व व्यापारिक लोन अटके हैं।'
@@ -160,8 +160,8 @@ export const businessPlans: PricingPlan[] = [
     name: { en: 'Corporate Credit Shield', hi: 'कॉरपोरेट क्रेडिट शील्ड' },
     badge: { en: 'ENTERPRISE', hi: 'उद्यम विशेष' },
     isPopular: true,
-    price: '₹34,999',
-    duration: { en: 'For 12 months', hi: '12 माह की अवधि' },
+    price: 'Premium',
+    duration: { en: 'For required months', hi: 'माह की अवधि' },
     bestFor: {
       en: 'Pvt Ltd & partnership firms needing CC/OD limit expansion and bank committee presentations.',
       hi: 'प्राइवेट लिमिटेड एवं पार्टनरशिप फर्में जो CC/OD बैंक लिमिट बढ़ाने और ऑडिट की तैयारी कर रही हैं।'

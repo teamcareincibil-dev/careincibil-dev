@@ -159,23 +159,8 @@ export const HomePage: React.FC = () => {
       {/* 2. STATS BAR (As seen in Reference Page 1: 27,558+ Customers, ₹688+ Cr Loans assisted, 27% Improvement, 11+ Partners, 2,755+ Bankers, PAN India) */}
       <section className="bg-white border-b border-slate-200 py-8 shadow-xs">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-6 text-center divide-y sm:divide-y-0 sm:divide-x divide-slate-100">
-            <div className="pt-3 sm:pt-0">
-              <div className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-                {t('stat_customers')}
-              </div>
-              <div className="text-xs text-slate-500 font-medium mt-1">
-                {t('stat_customers_label')}
-              </div>
-            </div>
-            <div className="pt-3 sm:pt-0">
-              <div className="text-2xl sm:text-3xl font-black text-emerald-700 tracking-tight">
-                {t('stat_loans')}
-              </div>
-              <div className="text-xs text-slate-500 font-medium mt-1">
-                {t('stat_loans_label')}
-              </div>
-            </div>
+          <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-6 text-center divide-y sm:divide-y-0 sm:divide-x divide-slate-100">
+          
             <div className="pt-3 sm:pt-0">
               <div className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
                 {t('stat_improvement')}

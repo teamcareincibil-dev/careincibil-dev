@@ -86,7 +86,7 @@ export const PrivacyPolicyPage: React.FC = () => {
                 </li>
                 <li>
                   <strong className="text-slate-800">{isHi ? 'वित्तीय व क्रेडिट रिकॉर्ड:' : 'Credit & Financial Records:'}</strong>{' '}
-                  {isHi ? 'सिबिल/एक्सपीरियन/इक्विफैक्स/क्रिफ हाईमार्क रिपोर्ट की पीडीएफ, खाता स्थिति (Settled/Written-Off/DPD), और ऋण विवरण।' : 'Credit bureau report extracts (CIBIL, Experian, Equifax, CRIF High Mark), account status entries (Settled, Written-Off, DPD delays), and loan history.'}
+                  {isHi ? 'सिबिल/एक्सपीरियन/इक्विफैक्स/क्रिफ हाईमार्क रिपोर्ट की पीडीएफ, खाता स्थिति (Settled/Written-Off/DPD), मुकदमे संबंधी फाइलें, गलत या विवादित प्रविष्टियाँ, SMA डेटा और ऋण विवरण।' : 'Credit bureau report extracts (CIBIL, Experian, Equifax, CRIF High Mark), account status entries (Settled, Written-Off, DPD delays), suit-file records, incorrect or disputed entries, SMA (Special Mention Account) data, and loan history.'}
                 </li>
                 <li>
                   <strong className="text-slate-800">{isHi ? 'तकनीकी डेटा:' : 'Technical Logs:'}</strong>{' '}

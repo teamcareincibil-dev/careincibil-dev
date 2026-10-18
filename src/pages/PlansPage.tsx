@@ -32,7 +32,7 @@ export const PlansPage: React.FC = () => {
     <div className="min-h-screen bg-slate-50 text-slate-800">
       <SEOHead
         title={language === 'hi' ? 'प्लान्स व शुल्क – व्यक्तिगत व व्यापारिक क्रेडिट पैकेज' : 'Pricing Plans & Packages – Individual & MSME Credit Solutions'}
-        description={language === 'hi' ? 'पारदर्शी क्रेडिट परामर्श शुल्क: बेसिक ₹10,999, स्टैंडर्ड ₹14,999, प्रीमियम ₹19,999 और वीआईपी एक्सक्विजिट। कोई छिपा हुआ खर्च नहीं।' : 'Explore transparent credit repair pricing: Basic ₹10,999, Standard ₹14,999, Premium ₹19,999, and MSME commercial packages. Zero hidden costs.'}
+        description={language === 'hi' ? 'पारदर्शी क्रेडिट परामर्श शुल्क: बेसिक ₹10,999, स्टैंडरड ₹17,999, प्रीमियम ₹25,999 और वीआईपी एक्सक्विजिट। कोई छिपा हुआ खर्च नहीं।' : 'Explore transparent credit repair pricing: Basic ₹10,999, Standard ₹17,999, Premium ₹25,999, and MSME commercial packages. Zero hidden costs.'}
         keywords="CIBIL repair cost, credit improvement pricing, CareInCibil plans, credit report dispute package, MSME CMR pricing"
         canonicalPath="/plans"
         schema={plansSchema}
