@@ -1,214 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://careincibil.com/</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/" />
   </url>
   <url>
     <loc>https://careincibil.com/check-cibil-score</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/check-cibil-score" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/check-cibil-score?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/check-cibil-score" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/check-cibil-score?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/check-cibil-score" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/check-cibil-score?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/check-cibil-score" />
   </url>
   <url>
     <loc>https://careincibil.com/services</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/services" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/services?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/services" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/services?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/services" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/services?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/services" />
   </url>
   <url>
     <loc>https://careincibil.com/book-free-call</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/book-free-call" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/book-free-call?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/book-free-call" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/book-free-call?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/book-free-call" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/book-free-call?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/book-free-call" />
   </url>
   <url>
     <loc>https://careincibil.com/about</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/about" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/about?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/about" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/about?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/about" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/about?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/about" />
   </url>
   <url>
     <loc>https://careincibil.com/plans</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/plans" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/plans?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/plans" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/plans?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/plans" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/plans?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/plans" />
   </url>
   <url>
     <loc>https://careincibil.com/calculator</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/calculator" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/calculator?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/calculator" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/calculator?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/calculator" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/calculator?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/calculator" />
   </url>
   <url>
     <loc>https://careincibil.com/contact</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/contact" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/contact?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/contact" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/contact?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/contact" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/contact?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/contact" />
   </url>
   <url>
     <loc>https://careincibil.com/blogs</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/blogs" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/blogs?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/blogs" />
   </url>
   <url>
     <loc>https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan</loc>
-    <lastmod>2026-10-12</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan?lang=hi</loc>
-    <lastmod>2026-10-12</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan" />
   </url>
   <url>
     <loc>https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan</loc>
-    <lastmod>2026-10-08</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan?lang=hi</loc>
-    <lastmod>2026-10-08</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan" />
   </url>
   <url>
     <loc>https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil</loc>
-    <lastmod>2026-09-29</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil?lang=hi</loc>
-    <lastmod>2026-09-29</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil" />
   </url>
   <url>
     <loc>https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step</loc>
-    <lastmod>2026-09-15</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step?lang=hi</loc>
-    <lastmod>2026-09-15</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step" />
   </url>
   <url>
     <loc>https://careincibil.com/privacy-policy</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/privacy-policy" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/privacy-policy?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/privacy-policy" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/privacy-policy?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/privacy-policy" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/privacy-policy?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/privacy-policy" />
   </url>
   <url>
     <loc>https://careincibil.com/terms-of-service</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/terms-of-service" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/terms-of-service?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/terms-of-service" />
-  </url>
-  <url>
-    <loc>https://careincibil.com/terms-of-service?lang=hi</loc>
-    <lastmod>2026-10-16</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/terms-of-service" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/terms-of-service?lang=hi" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/terms-of-service" />
   </url>
 </urlset>
