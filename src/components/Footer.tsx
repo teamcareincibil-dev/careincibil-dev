@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { useLanguage } from '../context/LanguageContext';
-import { Shield, Phone, Mail, MapPin, Clock, ArrowRight, ShieldCheck, HeartHandshake } from 'lucide-react';
+import { Shield, Phone, Mail, MapPin, Clock, ArrowRight, ShieldCheck, HeartHandshake, Instagram, Facebook } from 'lucide-react';
 
 export const Footer: React.FC = () => {
   const { language, t } = useLanguage();
@@ -25,6 +25,27 @@ export const Footer: React.FC = () => {
             <p className="text-sm text-slate-600 leading-relaxed pr-4">
               {t('footer_desc')}
             </p>
+
+            <div className="flex items-center gap-3" aria-label="Social media">
+              <a
+                href="https://www.instagram.com/careincibil"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="CareInCibil on Instagram"
+                className="text-slate-600 hover:text-emerald-700 transition-colors"
+              >
+                <Instagram className="w-5 h-5" />
+              </a>
+              <a
+                href="https://www.facebook.com/people/CARE-IN-CIBIL/61592244868425/"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="CareInCibil on Facebook"
+                className="text-slate-600 hover:text-emerald-700 transition-colors"
+              >
+                <Facebook className="w-5 h-5" />
+              </a>
+            </div>
 
             {/* Trust Badges */}
             <div className="flex flex-wrap gap-2 pt-2">
