@@ -159,10 +159,7 @@ export const CheckCibilScorePage: React.FC = () => {
       {/* Header */}
       <section className="bg-gradient-to-b from-emerald-50/70 via-teal-50/30 to-white text-slate-800 py-16 border-b border-slate-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center max-w-3xl">
-          <span className="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-emerald-900 bg-emerald-100 px-3 py-1 rounded-full border border-emerald-300 mb-4">
-            <Lock className="w-3.5 h-3.5 text-emerald-700" />
-            {language === 'hi' ? '100% फ्री सॉफ्ट एस्टीमेट • सिबिल पर कोई असर नहीं' : 'Free Soft Estimate • Zero Score Impact'}
-          </span>
+          
           <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight text-slate-900 mb-4">
             {t('score_check_title')}
           </h1>

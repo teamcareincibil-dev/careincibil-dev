@@ -23,14 +23,14 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/check-cibil-score?lang=hi" />
   </url>
 
-  <!-- What We Do / Services -->
+  <!-- Services -->
   <url>
-    <loc>https://careincibil.com/what-we-do</loc>
+    <loc>https://careincibil.com/services</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/what-we-do" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/what-we-do?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/services" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/services?lang=hi" />
   </url>
 
   <!-- Book Free Call -->

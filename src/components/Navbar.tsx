@@ -10,10 +10,14 @@ export const Navbar: React.FC = () => {
 
   const navLinks = [
     { to: '/', label: t('nav_home') },
-    { to: '/about', label: t('nav_about') },
+    
     { to: '/services', label: t('nav_what_we_do') },
-    { to: '/plans', label: t('nav_plans') },
+     { to: '/plans', label: t('nav_plans') },
+      { to: '/check-cibil-score', label: t('nav_cibil_check') },
+   { to: '/blogs', label: t('nav_blogs') },
     { to: '/contact', label: t('nav_contact') },
+  
+    { to: '/about', label: t('nav_about') },
   ];
 
   const isActive = (path: string) => {
