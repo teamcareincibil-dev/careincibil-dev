@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Analytics } from '@vercel/analytics/react';
 import { LanguageProvider } from './context/LanguageContext';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
@@ -70,6 +71,7 @@ export default function App() {
           <Footer />
           <WhatsAppFloatingButton />
         </div>
+        <Analytics />
       </LanguageProvider>
     </BrowserRouter>
   );
