@@ -1,3 +1,3 @@
 
 export const WEB3FORMS_ACCESS_KEY = 
-  (import.meta.env.VITE_WEB3FORMS_ACCESS_KEY as string) || "0503cb46-1236-44cd-895a-25f61aad3650";
+  (import.meta.env.VITE_WEB3FORMS_ACCESS_KEY as string) || "67ef2fd4-9df6-4486-950e-804dad9b05cd";
