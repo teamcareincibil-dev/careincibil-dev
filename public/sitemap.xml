@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://careincibil.com/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://careincibil.com/" />
+  </url>
+
+  <!-- Check CIBIL Score & Analysis -->
+  <url>
+    <loc>https://careincibil.com/check-cibil-score</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/check-cibil-score" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/check-cibil-score?lang=hi" />
+  </url>
+
+  <!-- What We Do / Services -->
+  <url>
+    <loc>https://careincibil.com/what-we-do</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/what-we-do" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/what-we-do?lang=hi" />
+  </url>
+
+  <!-- Book Free Call -->
+  <url>
+    <loc>https://careincibil.com/book-free-call</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/book-free-call" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/book-free-call?lang=hi" />
+  </url>
+
+  <!-- About Us -->
+  <url>
+    <loc>https://careincibil.com/about</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/about" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/about?lang=hi" />
+  </url>
+
+  <!-- Pricing Plans -->
+  <url>
+    <loc>https://careincibil.com/plans</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/plans" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/plans?lang=hi" />
+  </url>
+
+  <!-- EMI & Credit Tools Calculator -->
+  <url>
+    <loc>https://careincibil.com/calculator</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/calculator" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/calculator?lang=hi" />
+  </url>
+
+  <!-- Contact Us -->
+  <url>
+    <loc>https://careincibil.com/contact</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/contact" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/contact?lang=hi" />
+  </url>
+
+  <!-- Blogs Index -->
+  <url>
+    <loc>https://careincibil.com/blogs</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs?lang=hi" />
+  </url>
+
+  <!-- Blog Article: Minimum CIBIL for Home Loan -->
+  <url>
+    <loc>https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/what-is-the-minimum-credit-score-needed-to-get-a-home-loan?lang=hi" />
+  </url>
+
+  <!-- Blog Article: Good Score for Personal Loan -->
+  <url>
+    <loc>https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan</loc>
+    <lastmod>2026-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/what-is-a-good-credit-score-for-a-personal-loan?lang=hi" />
+  </url>
+
+  <!-- Blog Article: Settled vs Closed in CIBIL -->
+  <url>
+    <loc>https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/understanding-settled-vs-closed-status-in-cibil?lang=hi" />
+  </url>
+
+  <!-- Blog Article: How to File Official CIBIL Dispute -->
+  <url>
+    <loc>https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step</loc>
+    <lastmod>2026-09-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/blogs/how-to-file-an-official-cibil-dispute-step-by-step?lang=hi" />
+  </url>
+
+  <!-- Legal: Privacy Policy -->
+  <url>
+    <loc>https://careincibil.com/privacy-policy</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/privacy-policy" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/privacy-policy?lang=hi" />
+  </url>
+
+  <!-- Legal: Terms of Service -->
+  <url>
+    <loc>https://careincibil.com/terms-of-service</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://careincibil.com/terms-of-service" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://careincibil.com/terms-of-service?lang=hi" />
+  </url>
+
+</urlset>

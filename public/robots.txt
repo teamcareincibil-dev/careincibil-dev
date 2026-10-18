@@ -1,0 +1,22 @@
+# Robots.txt for CareInCibil (https://careincibil.com)
+# Generated for search engine crawlers: Googlebot, Bingbot, DuckDuckBot, Applebot
+
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /what-we-do
+Allow: /check-cibil-score
+Allow: /book-free-call
+Allow: /plans
+Allow: /calculator
+Allow: /contact
+Allow: /blogs
+Allow: /blogs/*
+
+# Disallow private query parameter states or session endpoints
+Disallow: /api/
+Disallow: /*?*preview=true
+
+# Host and Sitemap locations
+Host: https://careincibil.com
+Sitemap: https://careincibil.com/sitemap.xml
