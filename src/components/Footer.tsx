@@ -32,18 +32,20 @@ export const Footer: React.FC = () => {
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="CareInCibil on Instagram"
-                className="text-slate-600 hover:text-emerald-700 transition-colors"
+                className="text-slate-600 flex items-center gap-1 hover:text-emerald-700 transition-colors"
               >
                 <Instagram className="w-5 h-5" />
+                <p className="text-sm">/careincibil</p>
               </a>
               <a
                 href="https://www.facebook.com/people/CARE-IN-CIBIL/61592244868425/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="CareInCibil on Facebook"
-                className="text-slate-600 hover:text-emerald-700 transition-colors"
+                className="text-slate-600 flex items-center gap-0.5 hover:text-emerald-700 transition-colors"
               >
                 <Facebook className="w-5 h-5" />
+                <p className="text-sm">/careincibil</p>
               </a>
             </div>
 
