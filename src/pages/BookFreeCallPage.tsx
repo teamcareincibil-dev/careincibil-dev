@@ -6,6 +6,9 @@ import { WEB3FORMS_ACCESS_KEY } from '../config/web3forms';
 
 export const BookFreeCallPage: React.FC = () => {
   const { language, t } = useLanguage();
+  const today = new Date();
+  today.setMinutes(today.getMinutes() - today.getTimezoneOffset());
+  const minDate = today.toISOString().slice(0, 10);
 
   const [formData, setFormData] = useState({
     name: '',
@@ -109,8 +112,8 @@ export const BookFreeCallPage: React.FC = () => {
                 </h3>
                 <p className="text-sm text-slate-600 max-w-lg mx-auto leading-relaxed">
                   {language === 'hi'
-                    ? `धन्यवाद ${formData.name}! हमारे सीनियर क्रेडिट सलाहकार आपको ${formData.timeSlot} के समय +91 ${formData.phone} पर कॉल करेंगे।`
-                    : `Thank you ${formData.name}! Our senior credit counselor will call you at +91 ${formData.phone} during ${formData.timeSlot}.`}
+                    ? `धन्यवाद ${formData.name}! हमारे सीनियर क्रेडिट सलाहकार आपको ${formData.preferredDate} को ${formData.timeSlot} के समय +91 ${formData.phone} पर कॉल करेंगे।`
+                    : `Thank you ${formData.name}! Our senior credit counselor will call you at +91 ${formData.phone} on ${formData.preferredDate} during ${formData.timeSlot}.`}
                 </p>
 
                 {/* Summary Box */}
@@ -118,6 +121,10 @@ export const BookFreeCallPage: React.FC = () => {
                   <div className="flex justify-between">
                     <span className="text-slate-500">{language === 'hi' ? 'परामर्श माध्यम:' : 'Mode:'}</span>
                     <span className="font-bold text-slate-800 uppercase">{formData.consultationMode}</span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span className="text-slate-500">{language === 'hi' ? 'तारीख:' : 'Date:'}</span>
+                    <span className="font-bold text-slate-800">{formData.preferredDate}</span>
                   </div>
                   <div className="flex justify-between">
                     <span className="text-slate-500">{language === 'hi' ? 'समय स्लॉट:' : 'Slot:'}</span>
@@ -344,6 +351,25 @@ export const BookFreeCallPage: React.FC = () => {
                       <option value="na">{language === 'hi' ? 'मालूम नहीं / पहली बार' : 'No History / Unknown'}</option>
                     </select>
                   </div>
+                </div>
+
+                {/* Preferred Date */}
+                <div>
+                  <label htmlFor="preferredDate" className="text-xs font-bold text-slate-700 block mb-1">
+                    <span className="inline-flex items-center gap-1.5">
+                      <Calendar className="w-3.5 h-3.5 text-emerald-700" />
+                      {language === 'hi' ? 'पसंदीदा तारीख चुनें' : 'Preferred Date'} *
+                    </span>
+                  </label>
+                  <input
+                    id="preferredDate"
+                    type="date"
+                    required
+                    min={minDate}
+                    value={formData.preferredDate}
+                    onChange={(e) => setFormData({ ...formData, preferredDate: e.target.value })}
+                    className="w-full px-3.5 py-2.5 text-xs rounded-xl border border-slate-300 focus:outline-hidden focus:ring-2 focus:ring-emerald-600"
+                  />
                 </div>
 
                 {/* Time Slot Picker */}
